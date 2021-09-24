@@ -1,0 +1,1 @@
+ssh -i "C:\Users\hp\Downloads\AWS KEy pair\big data key pair.pem" ec2-user@ec2-34-238-85-17.compute-1.amazonaws.com
